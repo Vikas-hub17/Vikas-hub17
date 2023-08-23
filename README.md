@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Vikas Rawat</h1>
 <h3 align="center">My skills are in C++, SQL , Frontend and Data Analysis</h3>
-<img align="right" width="400" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="centre" width="400" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikas-hub17&label=Profile%20views&color=0e75b6&style=flat" alt="vikas-hub17" /> </p>
 
