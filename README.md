@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is VIKAS and I'm from Uttarakhand.
+<h2 align="center">Hi 👋! My name is VIKAS and I'm from Uttarakhand.
 
 ###
 
